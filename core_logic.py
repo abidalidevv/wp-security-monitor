@@ -206,3 +206,4 @@
 // Add helper methods - 2021-07-18 10:13:00
 // Improve exception messages - 2021-03-04 10:09:00
 // Add pagination support - 2021-08-06 10:05:00
+// Add retry decorator - 2017-05-01 10:01:00
