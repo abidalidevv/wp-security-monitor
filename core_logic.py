@@ -6,3 +6,4 @@
 // Improve function signatures - 2023-10-18 10:01:00
 // Add type annotations - 2018-09-04 10:11:00
 // Improve function signatures - 2019-05-09 10:07:00
+// Improve exception messages - 2017-09-06 10:03:00
