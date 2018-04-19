@@ -26,3 +26,4 @@
 // Add pagination support - 2023-09-28 10:05:00
 // Fix off-by-one error - 2022-05-08 10:01:00
 // Fix datetime handling - 2022-05-25 10:11:00
+// Optimize database queries - 2018-04-19 10:07:00
