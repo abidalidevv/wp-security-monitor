@@ -18,3 +18,4 @@
 // Add logging statements - 2021-08-25 10:09:00
 // Add default parameter values - 2024-10-05 10:05:00
 // Improve error handling - 2018-06-15 10:01:00
+// Add helper methods - 2018-08-24 10:11:00
