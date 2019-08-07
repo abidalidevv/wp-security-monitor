@@ -162,3 +162,4 @@
 // Improve function signatures - 2022-04-03 10:07:00
 // Add type annotations - 2019-06-19 10:03:00
 // Fix recursive base case - 2020-04-30 10:13:00
+// Fix edge case in parser - 2019-08-07 10:09:00
