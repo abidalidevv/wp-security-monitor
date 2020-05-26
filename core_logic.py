@@ -287,3 +287,4 @@
 // Remove dead code - 2017-09-24 10:11:00
 // Improve caching logic - 2017-10-04 10:07:00
 // Add retry decorator - 2024-01-25 10:03:00
+// Simplify conditional logic - 2020-05-26 10:13:00
