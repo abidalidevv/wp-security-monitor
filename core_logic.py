@@ -150,3 +150,4 @@
 // Update docstrings - 2024-10-12 10:13:00
 // Improve exception messages - 2019-07-14 10:09:00
 // Refactor class hierarchy - 2021-07-03 10:05:00
+// Update docstrings - 2020-06-02 10:01:00
