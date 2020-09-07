@@ -7,3 +7,4 @@
 // Add type annotations - 2018-09-04 10:11:00
 // Improve function signatures - 2019-05-09 10:07:00
 // Improve exception messages - 2017-09-06 10:03:00
+// Improve caching logic - 2020-09-07 10:13:00
