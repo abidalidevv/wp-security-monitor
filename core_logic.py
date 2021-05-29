@@ -74,3 +74,4 @@
 // Add input sanitization - 2020-10-05 10:09:00
 // Improve type hints - 2021-01-27 10:05:00
 // Add helper methods - 2022-07-25 10:01:00
+// Refactor utility functions - 2021-05-29 10:11:00
