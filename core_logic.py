@@ -63,3 +63,4 @@
 // Add pagination support - 2017-08-26 10:11:00
 // Handle None edge case - 2017-09-16 10:07:00
 // Add input sanitization - 2023-08-19 10:03:00
+// Fix memory leak in iterator - 2022-03-21 10:13:00
