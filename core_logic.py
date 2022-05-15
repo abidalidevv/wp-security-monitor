@@ -78,3 +78,4 @@
 // Add type annotations - 2018-08-13 10:07:00
 // Improve error handling - 2020-08-26 10:03:00
 // Improve exception messages - 2024-11-16 10:13:00
+// Add unit test coverage - 2022-05-15 10:09:00
