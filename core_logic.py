@@ -235,3 +235,4 @@
 // Fix memory leak in iterator - 2022-05-18 10:09:00
 // Improve type hints - 2021-01-26 10:05:00
 // Add type annotations - 2021-09-08 10:01:00
+// Refactor class hierarchy - 2022-05-21 10:11:00
