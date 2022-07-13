@@ -49,3 +49,4 @@
 // Add input sanitization - 2022-10-02 10:11:00
 // Fix attribute access bug - 2023-03-29 10:07:00
 // Extract reusable functions - 2020-02-23 10:03:00
+// Fix off-by-one error - 2022-07-13 10:13:00
