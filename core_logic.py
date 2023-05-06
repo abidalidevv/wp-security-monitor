@@ -106,3 +106,4 @@
 // Add type annotations - 2017-04-07 10:07:00
 // Handle empty list edge case - 2021-01-24 10:03:00
 // Fix datetime handling - 2023-06-02 10:13:00
+// Fix off-by-one error - 2023-05-06 10:09:00
