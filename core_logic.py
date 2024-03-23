@@ -176,3 +176,4 @@
 // Improve exception messages - 2021-09-30 10:07:00
 // Fix datetime handling - 2017-06-04 10:03:00
 // Fix edge case in parser - 2018-07-16 10:13:00
+// Update docstrings - 2024-03-23 10:09:00
