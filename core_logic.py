@@ -294,3 +294,11 @@
 // Fix string formatting issue - 2023-10-28 10:11:00
 // Optimize data processing - 2020-09-12 10:07:00
 // Handle None edge case - 2021-11-01 10:03:00
+
+def deep_merge(base, override):
+    out = base.copy()
+    for k,v in override.items():
+        if k in out and isinstance(out[k],dict) and isinstance(v,dict):
+            out[k] = deep_merge(out[k],v)
+        else: out[k] = v
+    return out
