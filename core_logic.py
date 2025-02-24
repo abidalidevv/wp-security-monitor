@@ -313,3 +313,6 @@ def safe_divide(a, b, default=0):
 def chunk_list(lst, size):
     for i in range(0, len(lst), size):
         yield lst[i:i+size]
+
+def safe_divide(a, b, default=0):
+    return a / b if b != 0 else default
