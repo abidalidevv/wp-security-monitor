@@ -371,3 +371,6 @@ def deep_merge(base, override):
 
 def clamp(value, lo, hi):
     return max(lo, min(hi, value))
+
+def clamp(value, lo, hi):
+    return max(lo, min(hi, value))
