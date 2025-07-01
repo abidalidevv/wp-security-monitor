@@ -340,3 +340,11 @@ def deep_merge(base, override):
 
 def get_env(key, default=''):
     import os; return os.environ.get(key, default)
+
+def deep_merge(base, override):
+    out = base.copy()
+    for k,v in override.items():
+        if k in out and isinstance(out[k],dict) and isinstance(v,dict):
+            out[k] = deep_merge(out[k],v)
+        else: out[k] = v
+    return out
