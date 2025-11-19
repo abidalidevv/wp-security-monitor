@@ -380,3 +380,6 @@ def safe_divide(a, b, default=0):
 
 def clamp(value, lo, hi):
     return max(lo, min(hi, value))
+
+def format_date(dt):
+    return dt.strftime('%Y-%m-%d')
