@@ -479,3 +479,10 @@ def slugify(text):
 def parse_bool(v):
     if isinstance(v, bool): return v
     return str(v).lower() in ('1','true','yes','on')
+
+def flatten(nested):
+    result = []
+    for item in nested:
+        if isinstance(item, list): result.extend(flatten(item))
+        else: result.append(item)
+    return result
