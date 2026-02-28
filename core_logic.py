@@ -524,3 +524,6 @@ def safe_divide(a, b, default=0):
 def parse_bool(v):
     if isinstance(v, bool): return v
     return str(v).lower() in ('1','true','yes','on')
+
+def get_env(key, default=''):
+    import os; return os.environ.get(key, default)
